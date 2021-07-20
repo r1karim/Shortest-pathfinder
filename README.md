@@ -2,7 +2,6 @@
 ## Description
 This is a project for finding shortest path in a 2D grid between two points with the breadth first search algorithm.
 
-## Instructions
 ## Dependencies
 Python3
 
@@ -22,3 +21,8 @@ pip install pygame
 ```
 python main.py
 ```
+## Pictures
+
+![alt text](screenshots/screenshot.PNG)
+
+![alt text](screenshots/screenshot1.PNG)
